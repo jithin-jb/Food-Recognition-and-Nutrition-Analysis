@@ -3,7 +3,7 @@
 # Overview
 Food Recognition and Nutrition Analysis is an innovative project designed to help users track their daily food intake by providing detailed nutritional information.
 
-#Front-End and Back-End Technologies
+# Front-End and Back-End Technologies
 Front-End: HTML, CSS, JavaScript
 Back-End: Flask
 
