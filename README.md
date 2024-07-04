@@ -18,9 +18,13 @@ This project stands out due to its ability to accurately recognize food items an
 
 # How it Works?
 Upload: Users upload an image or video of their meal.
+
 Analysis: The system processes the visual data to identify the food items.
+
 Results: The system provides detailed nutritional information, including calories and specific nutrients.
+
 Tracking: Users can monitor and keep a record of their daily food intake.
+
 
 This project aims to combine convenience with health awareness, promoting better dietary habits through technology.
 
